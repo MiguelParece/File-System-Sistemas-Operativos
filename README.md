@@ -1,5 +1,3 @@
-# SOFINALFI
-![Departamento de Engenharia Informática, Instituto Superior Técnico, Universidade de Lisboa](img/IST_DEI.png)
 
 # Sistemas Operativos
 
